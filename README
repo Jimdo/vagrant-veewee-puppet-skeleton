@@ -1,0 +1,13 @@
+This is a basic skeleton to use vagrant with puppet and facter.
+It also includes definitions to set up a default vagrant basebox using veewee.
+
+== Setup of Vagrant basebox ==
+
+ - vagrant basebox build squeeze64
+ - Follow the instructions
+
+== Start vagrant ==
+
+ - vagrant up
+
+More documentation soon...but really want to push the stuff away first...
