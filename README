@@ -1,5 +1,6 @@
 This is a basic skeleton to use vagrant with puppet and facter.
 It also includes definitions to set up a default vagrant basebox using veewee.
+Install vagrant and veewee using gem
 
 == Setup of Vagrant basebox ==
 
@@ -9,5 +10,7 @@ It also includes definitions to set up a default vagrant basebox using veewee.
 == Start vagrant ==
 
  - vagrant up
+
+== Write puppet modules ==
 
 More documentation soon...but really want to push the stuff away first...
