@@ -1,3 +1,6 @@
 [submodule "modules/galera"]
 	path = modules/galera
 	url = git@github.com:Jimdo/puppet-galera.git
+[submodule "modules/pacemaker"]
+	path = modules/pacemaker
+	url = git@github.com:LarsFronius/puppet-pacemaker.git
