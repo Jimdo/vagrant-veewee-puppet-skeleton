@@ -6,7 +6,7 @@ date > /etc/vagrant_box_build_time
 apt-get -y update
 apt-get -y install linux-headers-$(uname -r) build-essential
 apt-get -y install zlib1g-dev libssl-dev libreadline5-dev
-apt-get -y install puppet augeas-tools augeas-lenses ruby
+apt-get -y install puppet augeas-tools augeas-lenses ruby git
 apt-get clean
 
 #Setting up sudo
